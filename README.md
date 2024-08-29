@@ -30,6 +30,10 @@ argparse library you should download if you don't have
 
 ### INSTALLATION :
 
+//copy this commands and past it in your terminal
+
+***cd ~/Desktop***
+
 ***git clone https://github.com/SIRunstoppable/Packet-Sniffer.git***
 
 Python is typically pre-installed on most Linux distributions. You can check your Python version with :
