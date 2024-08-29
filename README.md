@@ -17,7 +17,7 @@ pyfiglet library you should download if you don't have
 argparse library you should download if you don't have
 
 
-INSTALLATION ON Linux :
+INSTALLATION :
 
 Python is typically pre-installed on most Linux distributions. You can check your Python version with :
 python3 --version
