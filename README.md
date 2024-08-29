@@ -36,6 +36,8 @@ argparse library you should download if you don't have
 
 ***git clone https://github.com/SIRunstoppable/Packet-Sniffer.git***
 
+#
+
 Python is typically pre-installed on most Linux distributions. You can check your Python version with :
 
 ***python3 --version***
@@ -43,6 +45,8 @@ Python is typically pre-installed on most Linux distributions. You can check you
 if it told you that no python install , you can install it with command :
 
 ***sudo apt-get install python3***
+
+#
 
 write this commands to complete installation process : 
 
@@ -60,6 +64,7 @@ you can install scapy and pyfiglet by command :
 
 #
 #
+
 ### Run The Tool With Command : 
 
 //enter the dir
