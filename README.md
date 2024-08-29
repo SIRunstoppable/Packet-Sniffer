@@ -58,6 +58,10 @@ you can install scapy and pyfiglet by command :
 #
 ### Run The Tool With Command : 
 
+//enter the dir
+
+***cd packet_sniffer***
+
 // you should specify your interface you want to sniff it's data for example **eth0**
 
 // you can know which inter face to specify by write command : 
