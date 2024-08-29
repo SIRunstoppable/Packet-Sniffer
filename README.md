@@ -30,27 +30,29 @@ argparse library you should download if you don't have
 
 ### INSTALLATION :
 
+***git clone https://github.com/SIRunstoppable/Packet-Sniffer.git***
+
 Python is typically pre-installed on most Linux distributions. You can check your Python version with :
 
-**python3 --version**
+***python3 --version***
 
 if it told you that no python install , you can install it with command :
 
-**sudo apt-get install python3**
+***sudo apt-get install python3***
 
 write this commands to complete installation process : 
 
-**sudo apt-get install python3-pip**
+***sudo apt-get install python3-pip***
 
-**pip3 install scapy**
+***pip3 install scapy***
 
-**pip3 install pyfiglet**
+***pip3 install pyfiglet***
 
 OR
 
 you can install scapy and pyfiglet by command :
 
-**pip3 install scapy pyfiglet**
+***pip3 install scapy pyfiglet***
 
 #
 #
@@ -60,22 +62,22 @@ you can install scapy and pyfiglet by command :
 
 // you can know which inter face to specify by write command : 
 
-**ifconfig**
+***ifconfig***
 
 //then you can write this command and replace the "<interface>" word with your real interface :
 
-**sudo python3 packet_sniffer.py -i <interface>**
+***sudo python3 packet_sniffer.py -i <interface>***
 
 or
 
-**sudo python3 packet_sniffer.py --interface <interface>**
+***sudo python3 packet_sniffer.py --interface <interface>***
 
 //you can write --help to know more about this tool
 
 
 //If get any issue don't histate to ask and also try to get root privillages :
 
-**sudo su** 
+***sudo su***
 
 
 ### NOTE : 
